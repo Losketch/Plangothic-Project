@@ -5,12 +5,12 @@
 [Simplified Chinese / 简体中文](README.md) | [Japanese / 日本語](README.ja.md) | [Traditional Chinese / 繁體中文](README.zh.hant.md)
 
 # Plangothic Project
-[![img](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?color=critical&label=Latest%20Submit&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/commits/main)
-[![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=Release&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
-[![总下载](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=Total%20Download&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![commits](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?color=critical&label=Latest%20Submit&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0U2NiI+PHBhdGggZD0iTS40IDEuOSAxLjYgMy4xQTggOCA5MCAxMTAgOSAuOC44IDkwIDAxMS41IDkgNi41IDYuNSA5MCAxMDIuNyA0LjFMNC4xIDUuNUEuMy4zIDkwIDAxMy45IDZILjNBLjMuMyA5MCAwMTAgNS44VjIuMWEuMy4zIDkwIDAxLjQtLjJaTTcuOCA0YS44LjggOTAgMDEuOC44djNsMiAuOEEuOC44IDkwIDAxMTAgMTBMNy41IDlBLjguOCA5MCAwMTcgOC4zVjQuOEEuOC44IDkwIDAxNy44IDRaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/commits/main)
+[![Download](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=Release&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![Total Download](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=Total%20Download&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![License](https://img.shields.io/static/v1?label=License&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE)
 
-[![視頻介紹](https://img.shields.io/badge/Video%20introduction-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)　　[![星标](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?label=Stars&color=critical&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxwYXRoIGZpbGw9IiNmZDAiIGQ9Im00IDAgMSAyLjYgMi43LjMtMi4xIDEuOC44IDNMNCA2LjQgMS42IDcuN2wuOC0zTC4zIDIuOSAzIDIuNnoiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)　　
+[![Video introduction](https://img.shields.io/badge/Video%20introduction-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)　　[![Stars](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?label=Stars&color=critical&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxwYXRoIGZpbGw9IiNmZDAiIGQ9Im00IDAgMSAyLjYgMi43LjMtMi4xIDEuOC44IDNMNCA2LjQgMS42IDcuN2wuOC0zTC4zIDIuOSAzIDIuNnoiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)　　
 </div>
 
 ## Overview
@@ -118,14 +118,19 @@ If you have any questions or suggestions during the use of this font, please fee
     - [Unicode charts file](https://www.unicode.org/charts/).
     - [Unihan database](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip).
     - [Lorchin Sans](https://github.com/Losketch/LorchinSans) developed by [Losketch](https://github.com/Losketch).
-6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
+6. The glyph data of this project is provided by [Hulenkius](https://github.com/Hulenkius) in SVG format. Users can access the glyphs via the link:  
+「<https://seeki.vistudium.top/SVG/{lowercase-hex-unicode}.svg>」
 
-    For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
+    Example: `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will display as:  
 <div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
+Additionally, you can experience the **SVG-VF Dynamic Glyph Demo** (with interactive weight and style adjustments) through the following link:  
+[SVG-VF Dynamic Experience](https://losketch.github.io/Plgo/VF)
+
 > [!IMPORTANT]
->  - The online SVG files only include CJK Unified Ideographs Extension blocks B to Extension I.
->  - The online SVG files may not simultaneously synchronize with the updates of this project, please use with discreation.
+> - The online SVG files only cover CJK Unified Ideographs Extension B to Extension I.
+> - The online SVG files are not fully synchronized with this project's updates. Use with caution.
+> - **The SVG-VF dynamic glyph feature is experimental**. Rendering compatibility issues may occur. Modern browsers (e.g., Chrome 120+, Firefox 121+) are recommended.
 
 ## About "The Planiverse"
 Founded by Fitzgerald in December 2023 and includes several sub-projects currently as follows:

@@ -5,9 +5,9 @@
 [日文 / 日本語](README.ja.md) | [英文 / English](README.en.md) | [簡體中文 / 简体中文](README.md)
 
 # 遍黑體項目（Plangothic Project）
-[![img](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?color=critical&label=最近提交&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/commits/main)
-[![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
-[![总下载](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=總下載量&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![提交](https://img.shields.io/github/last-commit/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?color=critical&label=最近提交&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0U2NiI+PHBhdGggZD0iTS40IDEuOSAxLjYgMy4xQTggOCA5MCAxMTAgOSAuOC44IDkwIDAxMS41IDkgNi41IDYuNSA5MCAxMDIuNyA0LjFMNC4xIDUuNUEuMy4zIDkwIDAxMy45IDZILjNBLjMuMyA5MCAwMTAgNS44VjIuMWEuMy4zIDkwIDAxLjQtLjJaTTcuOCA0YS44LjggOTAgMDEuOC44djNsMiAuOEEuOC44IDkwIDAxMTAgMTBMNy41IDlBLjguOCA5MCAwMTcgOC4zVjQuOEEuOC44IDkwIDAxNy44IDRaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/commits/main)
+[![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![總下載](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=總下載量&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![License](https://img.shields.io/static/v1?label=使用協議&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE)
 [![QQ Group](https://img.shields.io/badge/QQ羣-1135661191-critical?logo=qq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HvSdPx6z78suzTz51M3xGe-gENeaa1yc&authKey=eHjDZI54yDVbhyFjQqA2ImtV35LFy%2Fit8EuAzVDscVPcACE23L0hT314LiU9ey2%2F&noverify=0&group_code=1135661191)
 
@@ -138,9 +138,14 @@
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的顯示結果將會是：
 <div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
+此外，您可透過以下連結線上體驗 **SVG-VF 動態版字形示範**（支援互動式字重與樣式調整）：  
+[SVG-VF 動態體驗](https://losketch.github.io/Plgo/VF)
+
 > [!IMPORTANT]
 > - 線上的SVG檔案僅包含中日韓統一表意文字擴展B區至中日韓統一表意文字擴展I區。
 > - 線上的SVG檔案不和本項目的更新完全同步，請酌情使用。
+> - **SVG-VF 動態版字形目前為實驗性功能**，可能存在渲染相容性問題，建議使用現代瀏覽器（如 Chrome 120+、Firefox 121+）存取。
+
 ## 關於「遍宇宙家族」（Planiverse）
 該字體家族由Fitzgerald在2023年12月創設，現時涵蓋了以下的幾個子字體項目：
 1. **Plangothic Project（遍黑體項目）**：基於思源黑體，並以中國大陸字形為標準的對中日韓越統一表意文字擴展區進行字形補充的項目。
