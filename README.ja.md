@@ -124,7 +124,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
 <div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
 さらに、**SVG-VF 動的版字形のデモ**（インタラクティブな字重・スタイル調整対応）を以下のリンクから体験できます：  
-[SVG-VF 動的体験](https://losketch.github.io/Plgo/VF)
+「[SVG-VF 動的体験](https://losketch.github.io/Plgo/VF)」
 
 > [!IMPORTANT]
 >  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I までの文字しか含まれていません。

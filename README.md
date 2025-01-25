@@ -139,7 +139,7 @@
 <div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
 此外，您可以通过以下链接在线体验 **SVG-VF 动态版字形 Demo**（支持交互式字重与样式调节）：  
-[SVG-VF 动态体验](https://losketch.github.io/Plgo/VF)
+「[SVG-VF 动态体验](https://losketch.github.io/Plgo/VF)」
 
 > [!IMPORTANT]
 > - 线上的 SVG 文件仅包含中日韩统一表意文字扩展 B 区至中日韩统一表意文字扩展 I 区。
