@@ -178,14 +178,12 @@ jobs:
             echo
             echo "- Version: \`$VERSION\`"
             echo "- Font prefix: \`$FONT_NAME\`"
-            built_sha="$(python - <<'PY'
+            built_sha="$(python -c "
             import json
             from pathlib import Path
-
-            info = json.loads(Path('build-output/build-info/build-info.json').read_text(encoding='utf-8'))
+            info=json.loads(Path('build-output/build-info/build-info.json').read_text(encoding='utf-8'))
             print(info['source']['commit_sha'])
-            PY
-            )"
+            ")"
             echo "- Build branch source: \`$built_sha\`"
             echo
             echo "### Assets"
