@@ -82,8 +82,8 @@ def write_download_links(
         seven_zip = quote(f"{base}.7z", safe="")
         zip_name = quote(f"{base}.zip", safe="")
         lines.append(
-            f"| {package_name} | [Download]({base_url}/{seven_zip}) | "
-            f"[Download]({base_url}/{zip_name}) |"
+            f"| {package_name} | [📦 Download]({base_url}/{seven_zip}) | "
+            f"[📦 Download]({base_url}/{zip_name}) |"
         )
 
     lines.extend([END_MARKER, ""])
